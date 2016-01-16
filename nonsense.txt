@@ -1,7 +1,31 @@
 Hey BABE.
 
 
+oh man that's some excellent poetry
+{put some pussy shit in the beginning} almost makes me wanna wet myself
+the way you've taken time out of your day to slam
+me with nonsense formatting oh yeah
+all i want is to show up baked to some faggy bookstore
+to spend 40 dollars on some skinny-ass
+democrat-smelling
+publication that i can wipe my ass withs.
 
 
 
-fuckin look haha...haha.
+fuckin haha...haha.
+
+
+
+i ... insert before letter
+I ... insert beginngin of line
+a ... append after letter
+A ... append after line
+o ... open a new line after current line
+O ... open new line before current line
+
+
+:q ... quit
+:w ... write
+:wq ... write and quit
+
+
