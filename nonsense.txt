@@ -16,17 +16,27 @@ fuckin haha...haha.
 
 
 
-INSERTION MODE
 i ... insert before letter
-I ... insert beginning of line
+I ... insert beginngin of line
 a ... append after letter
 A ... append after line
 o ... open a new line after current line
-O ... open new line before current line blah blah blah
+O ... open new line before current line
+r ... single character replace.
+R ... replace until you want to stop
+
+w ... skip to next word (punctuation delineation)
+W ... skip to next word (space delineation)
+e, E ... move to end of word
+ 
+
+
 
 
 :q ... quit
 :w ... write
 :wq ... write and quit
+
+this line is for testing out ttis new replacing eature or something like that.
 
 

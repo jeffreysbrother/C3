@@ -16,12 +16,13 @@ fuckin haha...haha.
 
 
 
+INSERTION MODE
 i ... insert before letter
-I ... insert beginngin of line
+I ... insert beginning of line
 a ... append after letter
 A ... append after line
 o ... open a new line after current line
-O ... open new line before current line
+O ... open new line before current line blah blah blah
 
 
 :q ... quit
